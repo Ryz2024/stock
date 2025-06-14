@@ -11,9 +11,12 @@ public class StockApplication {
 
     @GetMapping("/great")
 
+
+
     public String great() {
-        return "Hello World";
+        return "Buen dia";
     }
+
 
     public static void main(String[] args) {
         SpringApplication.run(StockApplication.class, args);
