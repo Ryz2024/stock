@@ -14,7 +14,7 @@ public class StockApplication {
 
 
     public String great() {
-        return "Buen dia";
+        return "Buen dia sr";
     }
 
 
